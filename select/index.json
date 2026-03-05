@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オレンジのままで",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-05T14:44:50.068420Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オレンジのままで",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_オレンジのままで_Liella!.txt"
+    }
+  ]
+}
